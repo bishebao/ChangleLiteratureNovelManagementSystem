@@ -1,0 +1,2 @@
+# ChangleLiteratureNovelManagementSystem
+ 基于springboot的长乐文学小说管理系统
